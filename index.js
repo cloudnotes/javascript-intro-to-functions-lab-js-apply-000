@@ -58,6 +58,5 @@ function shout(string) {
 }
 
 function whisper(string)
-{return string.toLower
-}
+{return string.toLowerCase()
 }
